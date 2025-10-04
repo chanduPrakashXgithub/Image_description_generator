@@ -1,0 +1,4 @@
+project_id = "lssemgmkrofbahnbsiid"
+
+[functions.analyze-book-cover]
+verify_jwt = false
