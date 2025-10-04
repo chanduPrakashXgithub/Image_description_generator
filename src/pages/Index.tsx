@@ -28,7 +28,7 @@ const Index = () => {
 
         {/* Footer */}
         <div className="text-center mt-16 text-sm text-muted-foreground">
-          Powered by AI vision technology
+          Powered by Adaptive E-Learning Shell
         </div>
       </div>
     </div>
